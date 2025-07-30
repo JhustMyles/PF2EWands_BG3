@@ -1,6 +1,6 @@
 IN ACTIVE DEVELOPMENT
 
-Currently, wands for Rank 1 spells (and their upcasts) are completed. Wands up to Rank 3 are actually distributed throughout Act 1 (including the Underdark and Mountain Pass).
+Currently, wands for Rank 3 spells (and their upcasts) are completed. Wands up to Rank 3 are actually distributed throughout Act 1 (including the Underdark and Mountain Pass).
 
 Please provide any feedback, but especially bugs or other reports. And if you have any fun suggestions for individuals/vendors to get specific wands, let me know! Right now Human Ethel has something special, with something else planned for Volo once I get to higher ranks.
 
@@ -16,6 +16,7 @@ Underdark - Ranks 1-3:
 - Blurg - Grotto - Primal
 - Omeluum - Grotto - Occult
 - Derryth - Grotto - Divine
+- Corsair Greymon - All
 
 Mountain Pass - Ranks 2 & 3:
 - Jeera - Creche - Divine, Occult - Divine Focus
